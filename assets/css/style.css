@@ -1,11 +1,3 @@
-/**
-* Template Name: Hidayah
-* Updated: Jul 27 2023 with Bootstrap v5.3.1
-* Template URL: https://bootstrapmade.com/hidayah-free-simple-html-template-for-corporate/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -15,7 +7,7 @@ body {
 }
 
 a {
-  color: #428bca;
+  color: #1bd176;;
   text-decoration: none;
 }
 
@@ -52,7 +44,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #428bca;
+  border: 6px solid #1bd176;;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -81,7 +73,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #428bca;
+  background: #1bd176;;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -227,7 +219,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #428bca;
+  color: #1bd176;;
 }
 
 .navbar .dropdown:hover>ul {
@@ -327,7 +319,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #428bca;
+  color: #1bd176;;
 }
 
 .navbar-mobile .getstarted,
@@ -363,7 +355,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #428bca;
+  color: #1bd176;;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -485,7 +477,7 @@ h6 {
 
 #hero .carousel-indicators li.active {
   opacity: 1;
-  background: #428bca;
+  background: #1bd176;;
 }
 
 #hero .btn-get-started {
@@ -500,7 +492,7 @@ h6 {
   line-height: 1;
   color: #fff;
   animation-delay: 0.8s;
-  background: #428bca;
+  background: #1bd176;;
 }
 
 #hero .btn-get-started:hover {
@@ -542,7 +534,7 @@ section {
   padding: 8px 20px;
   margin: 0;
   background: #f5f9fc;
-  color: #428bca;
+  color: #1bd176;;
   display: inline-block;
   text-transform: uppercase;
   border-radius: 50px;
@@ -555,7 +547,7 @@ section {
 }
 
 .section-title h3 span {
-  color: #428bca;
+  color: #1bd176;;
 }
 
 .section-title p {
@@ -597,13 +589,13 @@ section {
 }
 
 .about .icon-box .icon i {
-  color: #428bca;
+  color: #1bd176;;
   font-size: 32px;
 }
 
 .about .icon-box:hover .icon {
-  background: #428bca;
-  border-color: #428bca;
+  background: #1bd176;;
+  border-color: #1bd176;;
 }
 
 .about .icon-box:hover .icon i {
@@ -623,7 +615,7 @@ section {
 }
 
 .about .icon-box .title a:hover {
-  color: #428bca;
+  color: #1bd176;;
 }
 
 .about .icon-box .description {
@@ -641,7 +633,7 @@ section {
 .about .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#428bca 50%, rgba(66, 139, 202, 0.4) 52%);
+  background: radial-gradient(#1bd176; 50%, rgba(66, 139, 202, 0.4) 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
@@ -684,7 +676,7 @@ section {
 }
 
 .about .play-btn:hover::after {
-  border-left: 15px solid #428bca;
+  border-left: 15px solid #1bd176;;
   transform: scale(20);
 }
 
@@ -727,7 +719,7 @@ section {
 .counts .counters span {
   font-size: 48px;
   display: block;
-  color: #428bca;
+  color: #1bd176;;
   font-weight: 700;
 }
 
@@ -776,7 +768,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #428bca;
+  background-color: #1bd176;;
 }
 
 /*--------------------------------------------------------------
@@ -795,7 +787,7 @@ section {
 }
 
 .services .icon i {
-  color: #428bca;
+  color: #1bd176;;
   font-size: 36px;
   line-height: 1;
 }
@@ -813,7 +805,7 @@ section {
 }
 
 .services .icon-box:hover .title a {
-  color: #428bca;
+  color: #1bd176;;
 }
 
 .services .description {
@@ -852,7 +844,7 @@ section {
   border-radius: 4px;
   transition: 0.5s;
   margin-top: 20px;
-  background: #428bca;
+  background: #1bd176;;
   color: #fff;
 }
 
@@ -891,7 +883,7 @@ section {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #428bca;
+  background: #1bd176;;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1004,11 +996,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #428bca;
+  border: 1px solid #1bd176;;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #428bca;
+  background-color: #1bd176;;
 }
 
 .portfolio-details .portfolio-info {
@@ -1172,7 +1164,7 @@ section {
 }
 
 .team .member .social a:hover {
-  color: #428bca;
+  color: #1bd176;;
 }
 
 .team .member .social i {
@@ -1287,7 +1279,7 @@ section {
 
 .contact .php-email-form input:focus,
 .contact .php-email-form textarea:focus {
-  border-color: #428bca;
+  border-color: #1bd176;;
 }
 
 .contact .php-email-form input {
@@ -1300,10 +1292,10 @@ section {
 
 .contact .php-email-form button[type=submit] {
   background: #fff;
-  border: 2px solid #428bca;
+  border: 2px solid #1bd176;;
   padding: 12px 35px;
   transition: 0.4s;
-  background: #428bca;
+  background: #1bd176;;
   color: #fff;
   border-radius: 4px;
 }
@@ -1422,7 +1414,7 @@ section {
   font-size: 16px;
   padding: 0 20px 0 20px;
   margin: 3px;
-  background: #428bca;
+  background: #1bd176;;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
@@ -1475,7 +1467,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #428bca;
+  background: #1bd176;;
   color: #fff;
   text-decoration: none;
 }
